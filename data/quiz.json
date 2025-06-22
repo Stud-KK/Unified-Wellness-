@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What should you do first if someone is bleeding?",
+    "options": ["Run", "Apply pressure", "Give water", "Check temperature"],
+    "answer": "Apply pressure"
+  },
+  {
+    "question": "How do you treat a burn?",
+    "options": ["Use ice", "Use butter", "Cool water", "Bandage immediately"],
+    "answer": "Cool water"
+  }
+]
